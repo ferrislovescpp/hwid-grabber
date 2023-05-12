@@ -6,16 +6,19 @@ hwid grabber made for project based learning purposes
 we use a hierarchical structure in a 3 digit system,
 
 ERROR 1.xx (MOTHERBOARD SERIAL NUMBER ERRORS)
+
 ERROR 2.xx (USN JOURNAL VOLUME ID ERRORS)
+
 ERROR 3.xx (PROCESSOR ID ERRORS)
+
 ERROR 4.xx (VOLUME GUID ERRORS)
+
 ERROR 5.xx (MAC ADDRESS ERRORS)
+
 ERROR 6.xx (BOOT UUID ERRORS)
 
 
-
 # MOTHERBOARD SERIAL NUMBER ERRORS
-
 
 
 ## ERROR CODE 1.11 -  failed to convert motherboard serial number to string
