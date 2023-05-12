@@ -19,7 +19,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 **error code** 6.xx - BOOT UUID ERRORS)
 
 
-# MOTHERBOARD SERIAL NUMBER ERRORS
+## MOTHERBOARD SERIAL NUMBER ERRORS
 
 
 ## ERROR CODE 1.11 -  failed to convert motherboard serial number to string
