@@ -1,8 +1,8 @@
-# HWID GRABBER
+# description
 
 a hwid grabber made for project based learning purposes
 
-# INSTALLATION
+# installation
 
 **step 1** - click on the green ***"code"*** dropdown button and click ***"download zip"***
 
@@ -16,7 +16,8 @@ a hwid grabber made for project based learning purposes
 
 **step 6** - exit out of the project properties page and compile `Ctrl + B`.
 
-# ERROR CODES
+# error codes
+
 as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
