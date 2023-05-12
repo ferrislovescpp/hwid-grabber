@@ -7,8 +7,8 @@ a hwid grabber made for project based learning purposes
 as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
-   * [**error code 1.11**](#error-code-111) - _failed to convert motherboard serial number to string_
-   * [**error code 1.22**](#error-code-122) - _failed to create system uuid_
+   * **error code 1.11** - _failed to convert motherboard serial number to string_
+   * **error code 1.22** - _failed to create system uuid_
 
 **error code** 2.xx - (USN JOURNAL VOLUME ID ERRORS)
 
@@ -20,7 +20,6 @@ as part of my "project based learning" journey, i decided to approach a broad am
 
 **error code** 6.xx - BOOT UUID ERRORS)
 
-<a id="error-code-111"></a>
 ### **error code** 1.11 -  _failed to convert motherboard serial number to string_
 #### how to fix - 
 
@@ -28,7 +27,6 @@ as part of my "project based learning" journey, i decided to approach a broad am
 2.  
 3. 
 
-<a id="error-code-122"></a>
 ### **error code** 1.22 - _failed to create system uuid_
 #### how to fix -
 
