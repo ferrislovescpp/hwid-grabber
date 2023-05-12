@@ -8,6 +8,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
    * [**error code 1.11**](#error-code-111) - _failed to convert motherboard serial number to string_
+   * [**error code 1.22**](#error-code-122) - _failed to create system uuid_
 
 **error code** 2.xx - (USN JOURNAL VOLUME ID ERRORS)
 
@@ -21,14 +22,15 @@ as part of my "project based learning" journey, i decided to approach a broad am
 
 <a id="error-code-111"></a>
 ### ERROR CODE 1.11 -  failed to convert motherboard serial number to string
-### how to fix - 
+#### how to fix - 
 
 1. 
 2.  
 3. 
 
-## ERROR CODE 1.22 - failed to create system uuid
-### how to fix -
+<a id="error-code-122"></a>
+### ERROR CODE 1.22 - failed to create system uuid
+#### how to fix -
 
 1. 
 2. 
