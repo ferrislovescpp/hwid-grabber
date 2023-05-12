@@ -4,6 +4,18 @@ a hwid grabber made for project based learning purposes
 
 # INSTALLATION
 
+**step 1** - click on the green ***"code"*** dropdown button and click ***"download zip"***
+
+**step 2** - right click on the hwid-grabber-main.zip file and click ***"extract all"***
+
+**step 3** - open the hwid-grabber-main folder and open the .sln file in visual studio.
+
+**step 4** - in the top left of visual studio go to `Project` -> `Properties` -> `General` -> `C++ language standard` -> `/std:c++17`.
+
+**step 5** - while in the project properties page go to `Properties` -> `Advanced` -> `Character Set` -> `Use Multi-Byte Character Set`.
+
+**step 6** - exit out of the project properties page and compile `Ctrl + B`.
+
 # ERROR CODES
 as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
