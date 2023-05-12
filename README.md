@@ -6,17 +6,17 @@ a hwid grabber made for project based learning purposes
 # ERROR CODES
 as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
-* **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
+**error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
 
-ERROR 2.xx (USN JOURNAL VOLUME ID ERRORS)
+**error code** 2.xx - (USN JOURNAL VOLUME ID ERRORS)
 
-ERROR 3.xx (PROCESSOR ID ERRORS)
+**error code** 3.xx - (PROCESSOR ID ERRORS)
 
-ERROR 4.xx (VOLUME GUID ERRORS)
+**error code** 4.xx - (VOLUME GUID ERRORS)
 
-ERROR 5.xx (MAC ADDRESS ERRORS)
+**error code** 5.xx - MAC ADDRESS ERRORS)
 
-ERROR 6.xx (BOOT UUID ERRORS)
+**error code** 6.xx - BOOT UUID ERRORS)
 
 
 # MOTHERBOARD SERIAL NUMBER ERRORS
