@@ -27,25 +27,20 @@ as part of my "project based learning" journey, i decided to approach a broad am
    * **error code 4.55** - _failed to open file for writing_
 
 **error code** 5.xx - MAC ADDRESS ERRORS)
-   * **error code 5.11** - _      _
-   * **error code 5.22** - _      _
+   * **error code 5.11** - _failed to allocate memory for adapter information (1)_
+   * **error code 5.22** - _failed to allocate memory for adapter information (2)_
+   * **error code 5.33** - _failed to get adapter information_
+   * **error code 5.44** - _failed to open output file_
 
 **error code** 6.xx - BOOT UUID ERRORS)
-   * **error code 6.11** - _        _
-   * **error code 6.22** - _         _
+   * **error code 6.11** - _failed to initialize COM library_
+   * **error code 6.22** - _failed to initialize security_
+   * **error code 6.33** - _failed to create IWbemLocator object_
+   * **error code 6.44** - _failed to connect to ROOT\\CIMV2 namespace_
+   * **error code 6.55** - _failed to set proxy blanket on IWbemServices object_
+   * **error code 6.66** - _failed to execute WQL query_
 
-
-
-
-
-
-
-
-
-
-
-### **error code** 1.11 -  _failed to convert motherboard serial number to string_
-#### how to fix - 
+### **how to fix error code** 1.11 -  _failed to convert motherboard serial number to string_
 
 1. 
 2.  
