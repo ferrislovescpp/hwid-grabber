@@ -11,14 +11,36 @@ as part of my "project based learning" journey, i decided to approach a broad am
    * **error code 1.22** - _failed to create system uuid_
 
 **error code** 2.xx - (USN JOURNAL VOLUME ID ERRORS)
+   * **error code 2.11** - _FindFirstVolumeA failed with error code_
+   * **error code 2.22** - _CreateFileA failed with error code_
+   * **error code 2.33** - _DeviceIoControl failed with error code_
+   * **error code 2.44** - _unable to open output file_
 
 **error code** 3.xx - (PROCESSOR ID ERRORS)
+   * **error code 3.11** - _   _
+   * **error code 3.22** - _    _
 
 **error code** 4.xx - (VOLUME GUID ERRORS)
+   * **error code 4.11** - _      _
+   * **error code 4.22** - _      _
 
 **error code** 5.xx - MAC ADDRESS ERRORS)
+   * **error code 5.11** - _      _
+   * **error code 5.22** - _      _
 
 **error code** 6.xx - BOOT UUID ERRORS)
+   * **error code 6.11** - _        _
+   * **error code 6.22** - _         _
+
+
+
+
+
+
+
+
+
+
 
 ### **error code** 1.11 -  _failed to convert motherboard serial number to string_
 #### how to fix - 
