@@ -17,12 +17,14 @@ as part of my "project based learning" journey, i decided to approach a broad am
    * **error code 2.44** - _unable to open output file_
 
 **error code** 3.xx - (PROCESSOR ID ERRORS)
-   * **error code 3.11** - _   _
-   * **error code 3.22** - _    _
+   * **error code 3.11** - _failed to open output file_
 
 **error code** 4.xx - (VOLUME GUID ERRORS)
-   * **error code 4.11** - _      _
-   * **error code 4.22** - _      _
+   * **error code 4.11** - _FindFirstVolumeMountPoint failed_
+   * **error code 4.22** - _GetVolumeNameForVolumeMountPoint failed_
+   * **error code 4.33** - _CreateFile failed_
+   * **error code 4.44** - _DeviceIoControl failed_
+   * **error code 4.55** - _failed to open file for writing_
 
 **error code** 5.xx - MAC ADDRESS ERRORS)
    * **error code 5.11** - _      _
@@ -56,11 +58,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 2. 
 3. 
 
-
-
 # USN JOURNAL VOLUME ID ERRORS
-
-
 
 ## ERROR CODE 2.11 - FindFirstVolumeA failed with error code
 ### how to fix - 
@@ -90,11 +88,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 2.
 3.
 
-
-
 # PROCESSOR ID ERRORS
-
-
 
 ## ERROR CODE 3.11 - failed to open output file.
 ### how to fix - 
@@ -103,11 +97,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 2.
 3. 
 
-
-
 # VOLUME GUID ERRORS
-
-
 
 ## ERROR CODE 4.11 - FindFirstVolumeMountPoint failed 
 ### how to fix - 
