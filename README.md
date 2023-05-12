@@ -21,7 +21,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 **error code** 6.xx - BOOT UUID ERRORS)
 
 <a id="error-code-111"></a>
-### 1.11 -  failed to convert motherboard serial number to string
+### **error code** 1.11 -  _failed to convert motherboard serial number to string_
 #### how to fix - 
 
 1. 
@@ -29,7 +29,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 3. 
 
 <a id="error-code-122"></a>
-### ERROR CODE 1.22 - failed to create system uuid
+### **error code** 1.22 - _failed to create system uuid_
 #### how to fix -
 
 1. 
