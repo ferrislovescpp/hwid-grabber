@@ -65,9 +65,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 2. 
 3. 
 
-//////
 ## USN JOURNAL VOLUME ID ERRORS
-//////
 
 ## how to fix error code 2.11 - FindFirstVolumeA failed with error code 
 
