@@ -7,7 +7,7 @@ a hwid grabber made for project based learning purposes
 as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
-   * [**1.11**](#error-code-111) - _failed to convert motherboard serial number to string_
+   * [**error code 1.11**](#error-code-111) - _failed to convert motherboard serial number to string_
 
 **error code** 2.xx - (USN JOURNAL VOLUME ID ERRORS)
 
