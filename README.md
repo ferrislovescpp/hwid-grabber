@@ -1,11 +1,12 @@
-# hwid
-hwid grabber made for project based learning purposes
+# HWID GRABBER
+
+a hwid grabber made for project based learning purposes
 
 
-# ERROR CODE KEY
-we use a hierarchical structure in a 3 digit system,
+# ERROR CODES
+as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
 
-ERROR 1.xx (MOTHERBOARD SERIAL NUMBER ERRORS)
+* **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
 
 ERROR 2.xx (USN JOURNAL VOLUME ID ERRORS)
 
