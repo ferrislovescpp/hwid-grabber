@@ -18,7 +18,7 @@ a hwid grabber made for project based learning purposes
 
 # error codes
 
-as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being error code structuring. for this project i decided to use a hierarchical structure following a consistent format. 
+as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being for absolutely no reason other than i was bored, error code structuring!!! for this project i decided to use a hierarchical structure following a consistent format... very exciting stuff!
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
    * **error code 1.11** - _failed to convert motherboard serial number to string_
@@ -33,20 +33,7 @@ as part of my "project based learning" journey, i decided to approach a broad am
 **error code** 3.xx - (PROCESSOR ID ERRORS)
    * **error code 3.11** - _failed to open output file_
 
-**error code** 4.xx - (VOLUME GUID ERRORS)
-   * **error code 4.11** - _FindFirstVolumeMountPoint failed_
-   * **error code 4.22** - _GetVolumeNameForVolumeMountPoint failed_
-   * **error code 4.33** - _CreateFile failed_
-   * **error code 4.44** - _DeviceIoControl failed_
-   * **error code 4.55** - _failed to open file for writing_
-
-**error code** 5.xx - MAC ADDRESS ERRORS)
-   * **error code 5.11** - _failed to allocate memory for adapter information (1)_
-   * **error code 5.22** - _failed to allocate memory for adapter information (2)_
-   * **error code 5.33** - _failed to get adapter information_
-   * **error code 5.44** - _failed to open output file_
-
-**error code** 6.xx - BOOT UUID ERRORS)
+**error code** 3.xx - (BOOT UUID ERRORS)
    * **error code 6.11** - _failed to initialize COM library_
    * **error code 6.22** - _failed to initialize security_
    * **error code 6.33** - _failed to create IWbemLocator object_
@@ -54,143 +41,68 @@ as part of my "project based learning" journey, i decided to approach a broad am
    * **error code 6.55** - _failed to set proxy blanket on IWbemServices object_
    * **error code 6.66** - _failed to execute WQL query_
 
+**error code** 4.xx - (HARD DRIVE SERIAL NUMBER ERRORS)
+  * **error code 4.11** - _error getting volume information for drive_
+
 ## MOTHERBOARD SERIAL NUMBER ERRORS
   ### how to fix error code 1.11 -  _failed to convert motherboard serial number to string_
 
-1. 
-2.  
-3. 
+1. fuck you
+2. fix it yourself prick
+3. figure it out yourself asshole
 
   ### how to fix error code 1.22 - _failed to create system uuid_
 
-1. 
-2. 
-3. 
-
-## USN JOURNAL VOLUME ID ERRORS
-  ### how to fix error code 2.11 - FindFirstVolumeA failed with error code 
-
-1.
-2.
-3.
-
-  ### how to fix error code 2.22 - CreateFileA failed with error code 
-
-1.
-2.
-3.
-
-  ### how to fix error code 2.33 -  DeviceIoControl failed with error code
-
-1.
-2.
-3.
-
-  ### how to fix error code 2.44 - unable to open output file 
-
-1.
-2.
-3.
-
+1. figure it out yourself asshole
+2. fix it yourself prick
+3. fuck you
 
 ## PROCESSOR ID ERRORS
-  ### how to fix error code 3.11 - failed to open output file.
+  ### how to fix error code 2.11 - failed to open output file.
 
-1. 
-2.
-3. 
-
-## VOLUME GUID ERRORS
-  ### how to fix error code 4.11 - FindFirstVolumeMountPoint failed 
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 4.22 - GetVolumeNameForVolumeMountPoint failed
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 4.33 - CreateFile failed 
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 4.44 - DeviceIoControl failed 
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 4.55 - failed to open file for writing
-
-1. 
-2.
-3. 
-
-
-## MAC ADDRESS ERRORS 
-  ### how to fix error code 5.11 - failed to allocate memory for adapter information (1)
-
-1. 
-2.
-3.
-
-  ### how to fix error code 5.22 - failed to allocate memory for adapter information (2)
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 5.33 -  failed to get adapter information.
-
-1. 
-2.
-3. 
-
-  ### how to fix error code 5.44 - failed to open output file.
-
-1. 
-2.
-3. 
-
+1. figure it out yourself asshole
+2. fuck you
+3. fix it yourself prick
 
 ## BOOT UUID ERRORS
-  ### how to fix error code 6.11 - failed to initialize COM library
+  ### how to fix error code 3.11 - failed to initialize COM library
 
-1. 
-2.
-3. 
+1. figure it out yourself asshole
+2. fuck you
+3. fix it yourself prick
 
-  ### how to fix error code 6.22 - failed to initialize security
+  ### how to fix error code 3.22 - failed to initialize security
 
-1. 
-2.
-3. 
+1. figure it out yourself asshole
+2. fix it yourself prick
+3. fuck you
 
-  ### how to fix error code 6.33 -  failed to create IWbemLocator object
+  ### how to fix error code 3.33 -  failed to create IWbemLocator object
 
-1. 
-2.
-3. 
+1. fuck you
+2. fix it yourself prick
+3. figure it out yourself asshole
 
-  ### how to fix error code 6.44 - failed to connect to ROOT\\CIMV2 namespace
+  ### how to fix error code 3.44 - failed to connect to ROOT\\CIMV2 namespace
 
-1. 
-2.
-3. 
+1. figure it out yourself asshole
+2. fuck you
+3. fix it yourself prick
 
-  ### how to fix error code 6.55 -  failed to set proxy blanket on IWbemServices object
 
-1. 
-2.
-3. 
+  ### how to fix error code 3.55 -  failed to set proxy blanket on IWbemServices object
+1. figure it out yourself asshole
+2. fix it yourself prick
+3. fuck you
 
-  ### how to fix error code 6.66 - failed to execute WQL query
+  ### how to fix error code 3.66 - failed to execute WQL query
+1. fuck you
+2. fix it yourself prick
+3. figure it out yourself asshole
 
-1. 
-2.
-3. 
+## BOOT UUID ERRORS
+  ### how to fix error code 4.11 - error getting volume information for drive
+
+1. figure it out yourself asshole
+2. fix it yourself prick
+3. fuck you
