@@ -47,15 +47,15 @@ as part of my "project based learning" journey, i decided to approach a broad am
    * **error code 3.11** - _failed to open output file_
 
 **error code** 3.xx - (BOOT UUID ERRORS)
-   * **error code 6.11** - _failed to initialize COM library_
-   * **error code 6.22** - _failed to initialize security_
-   * **error code 6.33** - _failed to create IWbemLocator object_
-   * **error code 6.44** - _failed to connect to ROOT\\CIMV2 namespace_
-   * **error code 6.55** - _failed to set proxy blanket on IWbemServices object_
-   * **error code 6.66** - _failed to execute WQL query_
+   * **error code 4.11** - _failed to initialize COM library_
+   * **error code 4.22** - _failed to initialize security_
+   * **error code 4.33** - _failed to create IWbemLocator object_
+   * **error code 4.44** - _failed to connect to ROOT\\CIMV2 namespace_
+   * **error code 4.55** - _failed to set proxy blanket on IWbemServices object_
+   * **error code 4.66** - _failed to execute WQL query_
 
 **error code** 4.xx - (HARD DRIVE SERIAL NUMBER ERRORS)
-  * **error code 4.11** - _error getting volume information for drive_
+  * **error code 5.11** - _error getting volume information for drive_
 
 ## MOTHERBOARD SERIAL NUMBER ERRORS
   ### how to fix error code 1.11 -  _failed to convert motherboard serial number to string_
