@@ -2,6 +2,19 @@
 
 a hwid grabber made for project based learning purposes
 
+# features
+
+**HWID MODULES**
+* retrieves your hard drive serial number
+* retrieves your motherboard serial number
+* retrieves your computer uuid
+* retrieves your processor iD 
+* retrieves your boot uuid
+
+**SECURITY PRACTICES**
+* xorstr string encryption
+* use of local variables
+
 # installation
 
 **step 1** - click on the green ***"code"*** dropdown button and click ***"download zip"***
