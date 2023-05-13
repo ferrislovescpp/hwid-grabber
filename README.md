@@ -8,7 +8,7 @@ a hwid grabber made for project based learning purposes
 
 **step 2** - right click on the hwid-grabber-main.zip file and click ***"extract all"***
 
-**step 3** - open the ***"hwid-grabber-main"*** folder and open the .sln file in visual studio.
+**step 3** - open the ***"hwid-grabber-main"*** folder and skid the code into ur project
 
 **step 4** - in the top left of visual studio go to `Project` -> `Properties` -> `General` -> `C++ language standard` -> `/std:c++17`.
 
