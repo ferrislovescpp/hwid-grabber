@@ -31,7 +31,7 @@ a hwid grabber made for project based learning purposes
 
 # error codes
 
-as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being for absolutely no reason other than i was bored, error code structuring!!! for this project i decided to use a hierarchical structure following a consistent format... very exciting stuff! this also happens to be a perfect guideline for anyone who wants to skid this and sell it!
+as part of my "project based learning" journey, i decided to approach a broad amount of subjects regardless of their necessity, one of them being for absolutely no reason other than i was bored, error code structuring!!! for this project i decided to use a hierarchical structure following a consistent format... very exciting stuff! this also happens to be a perfect error guideline for anyone who wants to skid this and sell it!
 
 **error code** 1.xx - (MOTHERBOARD SERIAL NUMBER ERRORS)
    * **error code 1.11** - _failed to convert motherboard serial number to string_
