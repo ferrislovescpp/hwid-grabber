@@ -12,7 +12,7 @@ a hwid grabber made for project based learning purposes
 * retrieves your boot uuid
 
 **SECURITY PRACTICES**
-* xorstr string encryption
+* basic xorstr string encryption (not secure)
 * use of local variables
 
 # installation
